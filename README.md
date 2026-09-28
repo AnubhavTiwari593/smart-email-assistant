@@ -1,4 +1,4 @@
-# Smart Email Assistant using ChatGPT AI (Spring Boot Backend)
+# Smart Email Assistant using Gemini AI (Spring Boot Backend)
 
 Smart Email Assistant is a Spring Boot based backend application that generates automated and context-aware email replies based on user input and email type.
 
